@@ -1,0 +1,11 @@
+
+ .navbar.navbar-expand-lg.navbar-light.bg-dark .navbar-brand
+  {
+    color:white;
+  }
+
+.navbar-nav.mr-auto li a
+{
+    color:white;
+}
+
